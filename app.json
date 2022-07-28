@@ -1,11 +1,12 @@
 {
-	"name": "Bottus",
-	"description": " Whatsapp bot.",
+	"name": "zunamic-multi-device test",
+	"avatar": ""
+	"description": "Zunamic Md Bot Test",
 	"keywords": [
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/lyfe0010/whatsapp-bot-md",
+	"repository": "https://github.com/sanukanimsath/test-zunamic",
 	"stack": "container",
 	"env": {
 		"ALWAYS_ONLINE": {
@@ -21,22 +22,22 @@
 		"SUDO": {
 			"description": "admin",
 			"required": true,
-			"value": "null"
+			"value": "94773585511"
 		},
 		"PREFIX": {
 			"description": "prefix, check for more",
 			"required": true,
 			"value": "."
 		},
-		"SESSION_ID": {
-			"description": "session id",
+		"ZUNAMIC SESSION_ID": {
+			"description": "paste your session id",
 			"required": true,
 			"value": ""
 		},
 		"STICKER_PACKNAME": {
 			"description": "sticker pack info",
 			"required": true,
-			"value": "❤️,LyFE"
+			"value": "Zunamic Md Bot Test"
 		},
 		"HEROKU_APP_NAME": {
 			"description": "Heroku app name, same as above entered",
