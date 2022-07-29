@@ -1,6 +1,6 @@
 {
 	"name": "zunamic-multi-device test",
-	"avatar": ""
+	"avatar": "",
 	"description": "Zunamic Md Bot Test",
 	"keywords": [
 		"whatsapp",
@@ -75,7 +75,7 @@
 		"ANTILINK_MSG": {
 			"description": "Message send when antilink and action is kick.",
 			"required": false,
-			"value": "_Antilink Detected_"
+			"value": "Antilink Detected"
 		}
 	},
 	"addons": [
