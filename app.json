@@ -6,7 +6,7 @@
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/sanukanimsath/zunamic-multi-device-bot",
+	"repository": "https://github.com/sanukanimsath/test-zunamic",
 	"stack": "container",
 	"env": {
 		"ALWAYS_ONLINE": {
